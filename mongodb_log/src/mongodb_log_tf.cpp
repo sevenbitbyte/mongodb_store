@@ -35,7 +35,7 @@
 #include <mongo/client/dbclient.h>
 #include <mongodb_store/util.h>
 
-
+using namespace std;
 using namespace mongo;
 
 
